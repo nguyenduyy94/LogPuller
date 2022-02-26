@@ -103,7 +103,7 @@
             <AnchorPane id="Content" minHeight="-1.0" minWidth="-1.0" prefHeight="545.0" prefWidth="430.0">
                      <children>
                         <TextField layoutX="14.0" layoutY="14.0" prefHeight="27.0" prefWidth="404.0" promptText="Search" />
-                        <ListView layoutX="14.0" layoutY="55.0" prefHeight="473.0" prefWidth="405.0" />
+                        <ListView layoutX="14.0" layoutY="55.0" prefHeight="487.0" prefWidth="405.0" />
                      </children>
             </AnchorPane>
           </content>

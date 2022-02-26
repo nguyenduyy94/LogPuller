@@ -25,7 +25,9 @@ public class RemoteHostCredential {
 
     String privateKeyFilePath;
 
-    String privateKetPassword;
+    String privateKeyPassword;
+
+    String publicKeyFilePath;
 
     String remoteFolderPath;
 
