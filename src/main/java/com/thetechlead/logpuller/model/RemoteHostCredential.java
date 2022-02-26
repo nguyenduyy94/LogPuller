@@ -32,4 +32,6 @@ public class RemoteHostCredential {
     String remoteFolderPath;
 
     String mainLogFileName;
+
+    String downloadLogLocalPath;
 }
